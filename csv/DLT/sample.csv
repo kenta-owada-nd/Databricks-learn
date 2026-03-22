@@ -1,0 +1,10 @@
+id,name,age,gender,action,ts
+1,taro,20,male,buy,2025-03-01
+2,ken,30,male,sell,2025-03-02
+3,saki,40,female,buy,2025-03-03
+4,rika,50,female,sell,2025-03-04
+5,syo,60,male,buy,2025-03-05
+6,toshiki,70,male,sell,2025-03-06
+7,yuuka,80,female,buy,2025-03-07
+8,ami,90,female,sell,2025-03-08
+9,yuta,100,male,buy,2025-03-09
